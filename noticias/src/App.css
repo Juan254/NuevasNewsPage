@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+/* Estilos personalizados */
+#logo{
+  background-color: #84374d;
+  margin: 0;
+}
+
+.nav-link{
+  color: whitesmoke;
+  font-weight: bold;
+}
+.nav-link:hover{
+  color: whitesmoke;
+}
+.nav-item:hover{
+  background-color: #BC6B42;
+  
+}
+.nav-home{
+  background-color: #84374d;
+}
+.user-icon, .nombre-user {
+  color: #e78351;
+  font-size: small;
+}
+#title{
+  color: white;
+  font-family: fantasy;
+}
